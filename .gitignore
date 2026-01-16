@@ -3,6 +3,11 @@
 .env
 .env.backup
 .env.production
+.env.*.local
+*.token
+*credentials*
+*.key
+*.pem
 .phpactor.json
 .phpunit.result.cache
 /.fleet
