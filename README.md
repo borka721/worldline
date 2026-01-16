@@ -2,6 +2,11 @@
 
 A Laravel application project.
 
+## Branching Strategy
+
+- `main` - Production-ready code
+- `develop` - Development branch for new features
+
 ## 🚀 Getting Started
 
 ### Prerequisites
